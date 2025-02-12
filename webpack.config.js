@@ -8,7 +8,6 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: './src/template.html',
     }),
-    new MiniCssExtractPlugin(),
   ],
   devtool: false,
   module: {
