@@ -1,3 +1,4 @@
+import css from './style.scss';
 import { AlertService } from './app/alert.service.js';
 import { CalculatorService } from './app/calculator.service.js';
 import { JokesService } from './app/jokes.service.js';

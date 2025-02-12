@@ -1,0 +1,34 @@
+{
+  "name": "wpu",
+  "version": "1.0.0",
+  "description": "Hasil belajar dari youtube web programming unpas di 2025, semoga bisa menjadi web dev di kemudian hari. Aamin",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfaniM/Belajar-Frontend-Web-WPU-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfaniM/Belajar-Frontend-Web-WPU-Course/issues"
+  },
+  "homepage": "https://github.com/alfaniM/Belajar-Frontend-Web-WPU-Course#readme",
+  "devDependencies": {
+    "@babel/core": "^7.26.8",
+    "@babel/preset-env": "^7.26.8",
+    "babel-loader": "^9.2.1",
+    "css-loader": "^7.1.2",
+    "sass": "^1.84.0",
+    "sass-loader": "^16.0.4",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "D": "^1.0.0",
+    "style-loader": "^4.0.0"
+  }
+}
